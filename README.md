@@ -5,7 +5,7 @@ My career has been a long arc through regulated environments — USGS, UCLA Cent
 
 Most of my recent production work is internal and lives behind enterprise firewalls, so what's public here is a mix of older experimentation, forks I learned from, and methodology repositories. The first-author publication in Environmental Modelling & Software (2014) on quantile regression and fractional ARIMA for conditional forecasting under non-stationarity is on ResearchGate; a public technical treatment of quantile-based uncertainty quantification is at chronitron.info/post/ts_uncertainty. I read Rumi in the original Persian and find that the recursive, self-referential structure of classical Sufi poetry maps surprisingly well onto how I think about systems architecture — though I keep that connection mostly between me and the work.
 
-Find me: LinkedIn · ResearchGate  
+Find me: [LinkedIn]() · [ResearchGate](https://www.researchgate.net/profile/Akbar_Akbari_Esfahani)  
 Reach me: akbar.esfahani@email.com
 <!--
 **aakbarie/aakbarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
